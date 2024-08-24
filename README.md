@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ArcadexIT's projects](https://github.com/ArcadexIT)
 
-- 🌱 I’m currently learning **Computer Science, App Development Flutter, java, dart**
+- 🌱 I’m currently learning and developing **App Development Flutter, java, dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mosharof00](https://github.com/mosharof00)
 
