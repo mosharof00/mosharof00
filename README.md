@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on [ArcadexIT's projects](https://github.com/ArcadexIT)
 
-- 🌱 I’m currently learning and developing **App Development Flutter, java, dart**
+- 🌱 I’m currently learning and developing **Flutter, Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mosharof00](https://github.com/mosharof00)
 
-- 💬 Ask me about **Flutter 💙**
+- 💬 Ask me about **Mobile Applications Development 💙**
 
 - 📫 How to reach me **mosharof5khan@gmail.com**
 
-- ⚡ Fun fact **I am funny 😅**
+- ⚡ Fun fact **I am funny 😅 and friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
