@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mosharof00](https://github.com/mosharof00)
 
-- 💬 Ask me about **Mobile Applications Development 💙**
+- 💬 Ask me about **Mobile Applications Development with Flutter 💙**
 
 - 📫 How to reach me **mosharof5khan@gmail.com**
 
