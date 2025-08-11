@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ArcadexIT's projects](https://github.com/ArcadexIT)
 
-- 🌱 I’m currently **Deep researching on Flutter**
+- 🌱 I’m currently **Deep Researching on Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mosharof00](https://github.com/mosharof00)
 
