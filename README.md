@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a reactive Food service application, Foodpanda like App and global
 
-- 🌱 I’m currently **Deep Researching on Flutter**
+- 🌱 I’m currently **Deep Researching on Flutter and LMS system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mosharof00](https://github.com/mosharof00)
 
