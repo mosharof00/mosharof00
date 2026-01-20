@@ -2,9 +2,9 @@
 <h3 align="center">Mobile Application Developer (Flutter)</h3>
 <img aling="right" alt="coding" width="300" src  ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on a reactive Food service application, Foodpanda like App and global
+- 🔭 I’m currently working on a reactive Food service application, Foodpanda like App, and global
 
-- 🌱 I’m currently **Deep Researching on Flutter and LMS system**
+- 🌱 I’m currently **Realtime Tracking System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mosharof00](https://github.com/mosharof00)
 
