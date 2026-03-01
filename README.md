@@ -136,7 +136,6 @@ I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, 
 | 📧 Email | [mosharof5khan@gmail.com](mailto:mosharof5khan@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/mosharof-khan](https://linkedin.com/in/mosharof-khan) |
 | 🐙 GitHub | [github.com/mosharof00](https://github.com/mosharof00) |
-| 🌐 Portfolio | [arcadexit.com](https://arcadexit.com) |
 
 </div>
 
