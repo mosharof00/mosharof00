@@ -18,6 +18,8 @@
 [![Email](https://img.shields.io/badge/Email-mosharof5khan@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mosharof5khan@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Dhaka,_Bangladesh-green?style=for-the-badge)](https://maps.google.com/?q=Gulshan-1,Dhaka)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Senior+Flutter+%26+Dart+Developer;Clean+Architecture+%7C+BLoC+%7C+GetX+%7C+Riverpod;Shipped+Apps+on+Play+Store+%26+App+Store;Building+Scalable+Cross-Platform+Ecosystems" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -28,103 +30,96 @@
 
 I'm a **Senior Flutter Developer** at **ArcadexIT (Arcade Group)** with a strong track record of shipping **production-grade, commercially successful** mobile applications. I specialize in architecting scalable full-stack mobile solutions — designing systems, writing clean code, and owning deployment pipelines end-to-end.
 
-I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, serving **1000+ concurrent users** across multiple platforms. I lead projects with both technical depth and client-facing communication skills.
+I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, serving **1000+ concurrent users** across multiple platforms.
 
 ```
 🔭  Currently leading mobile development at ArcadexIT, Gulshan-1, Dhaka
 ⚡  Built & shipped: food delivery, e-commerce, LMS, workforce management platforms
 🌱  Exploring: AI integration in mobile apps, serverless edge functions
 🎯  Philosophy: Clean architecture, modular code, scalable backends
+💬  Ask me about Flutter, BLoC, Clean Architecture, or performance optimization
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-### 📱 Mobile & Frontend
+### 📱 Mobile · Architecture · State Management
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart)
-![GetX](https://img.shields.io/badge/State--GetX-Expert-purple?style=flat-square)
-![Bloc](https://img.shields.io/badge/State--Bloc-Proficient-blueviolet?style=flat-square)
-
-### 🧠 Architecture
+![BLoC](https://img.shields.io/badge/BLoC-Proficient-blueviolet?style=flat-square)
+![GetX](https://img.shields.io/badge/GetX-Expert-purple?style=flat-square)
+![Riverpod](https://img.shields.io/badge/Riverpod-Proficient-00BFA5?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-✓-success?style=flat-square)
 ![MVVM](https://img.shields.io/badge/MVVM-✓-success?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-✓-success?style=flat-square)
-![Modular](https://img.shields.io/badge/Modular_Architecture-✓-success?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-✓-success?style=flat-square)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend · Cloud · DevOps
 ![Supabase](https://img.shields.io/badge/Supabase-Expert-3ECF8E?style=flat-square&logo=supabase)
 ![Firebase](https://img.shields.io/badge/Firebase-Proficient-FFCA28?style=flat-square&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?style=flat-square&logo=mongodb)
 ![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go)
-
-### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
-![Google Play](https://img.shields.io/badge/Google_Play_Console-✓-success?style=flat-square&logo=googleplay)
-![Apple Store](https://img.shields.io/badge/Apple_App_Store-✓-success?style=flat-square&logo=appstore)
+![Google Play](https://img.shields.io/badge/Play_Store_Console-✓-success?style=flat-square&logo=googleplay)
+![App Store](https://img.shields.io/badge/App_Store_Connect-✓-success?style=flat-square&logo=appstore)
 
-### 🔗 Integrations
-`Google Maps API` · `Firebase Cloud Messaging` · `Twilio` · `PostGIS` · `RESTful APIs` · `Webhooks` · `Cron Jobs` · `Deno/TypeScript Edge Functions`
+`Google Maps API` · `FCM` · `Twilio` · `PostGIS` · `RESTful APIs` · `WebSockets` · `Deno Edge Functions`
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🍔 FoodX — Multi-Vendor Food Delivery Platform
-> *FoodPanda-like ecosystem, built from scratch*
-
-**Stack:** `Flutter 3` · `Supabase (PostgreSQL, PostGIS)` · `Edge Functions` · `Firebase` · `Google Maps API` · `GetX` · `Twilio`
+> *FoodPanda-like ecosystem — 4 apps, 1000+ concurrent users, built from scratch*
 
 - 🏗️ Architected **4 production apps**: Customer, Restaurant, Driver & Web Admin
-- 👥 Handles **1,000+ concurrent users** on a scalable serverless backend
 - 🤖 **Auto-order assignment** — matches nearest driver within 5–10km in 30s intervals
 - 📍 **Real-time GPS tracking** with <5s latency & dynamic ETA predictions
-- 💬 Push notifications via **Firebase Cloud Messaging** across all platforms
-- 🛒 **Commercially sold on CodeCanyon** with full documentation
+- 🛒 Commercially sold on **CodeCanyon** with full documentation & support
 
-[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Customer_App-82B541?style=flat-square)](https://codecanyon.net)
-[![Play Store](https://img.shields.io/badge/Play_Store-Customer-green?style=flat-square&logo=googleplay)](https://play.google.com)
-[![App Store](https://img.shields.io/badge/App_Store-Available-black?style=flat-square&logo=appstore)](https://apps.apple.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=flat-square)](https://foodx.arcadexit.com/)
+[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Buy_Now-82B541?style=flat-square)](https://codecanyon.net/item/foodx-multi-restaurant-food-delivery-app-with-admin/61272196?s_rank=1)
+[![Play Store](https://img.shields.io/badge/Play_Store-Download-green?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.meeza.meeza_user_app&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-TestFlight-black?style=flat-square&logo=appstore)](https://testflight.apple.com/join/RAhfgCD7)
 
 ---
 
 ### 🛍️ Vendex — Multi-Vendor E-Commerce Platform
+> *3-app suite: Customer, Vendor & Delivery Agent*
 
-**Stack:** `Flutter` · `GetX` · `Laravel API` · `Firebase` · `MVC`
+- 📦 Full e-commerce flow: catalog → cart → multi-vendor checkout → order tracking
+- 🚚 Real-time **delivery agent tracking** and live status updates
+- 💰 Published & actively sold on **CodeCanyon**
 
-- 📦 **3 apps in one suite**: Customer, Vendor & Delivery Agent
-- 🛒 Full e-commerce flow: product catalog → cart → multi-vendor checkout → real-time order tracking
-- 💰 **Published & actively sold on CodeCanyon**
-
-[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Live-82B541?style=flat-square)](https://codecanyon.net)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=flat-square)](https://vendexprotfolio.arcadexit.com/)
+[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Buy_Now-82B541?style=flat-square)](https://codecanyon.net/item/vendex-complete-multivendor-ecommerce-platform-android-ios-apps-with-web-admin-panel/58952245)
+[![Play Store](https://img.shields.io/badge/Play_Store-Download-green?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.arcadexit.vendex_user_app&hl=en)
 
 ---
 
-### 🎓 Smart Academy — Learning Management System (LMS)
+### 🎓 Smart Academy — Learning Management System
+> *Full-featured LMS with community, live chat & course sales*
 
-**Stack:** `Flutter` · `GetX` · `Node.js` · `Firebase` · `MongoDB` · `MVC`
-
-- 🎥 Full **video course management** with play tracking & pause history
-- 🤝 Community features: posts, comments, likes, follows, and followers
+- 🎥 **Video course management** with progress tracking & resume from last position
+- 🤝 Community features: posts, comments, likes, follows & followers
 - 💬 **Real-time group chat** & push notifications
 - 💳 Complete course sales cycle with popular payment gateways
 
-[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Live-82B541?style=flat-square)](https://codecanyon.net)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=flat-square)](https://smartacademypro.arcadexit.com/)
+[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Buy_Now-82B541?style=flat-square)](https://codecanyon.net/item/smart-academy-complete-learning-management-system/58904031?s_rank=1)
 
 ---
 
 ### 🗓️ WorkShiftly — Workforce Shift Management App
+> *Dynamic shift planning connecting workers and employers seamlessly*
 
-**Stack:** `Flutter` · `GetX` · `Supabase` · `Firebase` · `Google Maps` · `Twilio` · `Deno`
+- 📅 Smart scheduling with location-aware shift assignments
+- 🗺️ **Google Maps integration** for location-based worker matching
+- 📲 SMS & push notifications via **Twilio** and **Firebase**
 
-- 📅 Dynamic shift planning connecting workers and employers seamlessly
-- 🗺️ Location-aware scheduling with **Google Maps integration**
-- 📲 SMS notifications via **Twilio**
-
-[![Demo](https://img.shields.io/badge/▶_Demo_Video-Watch-red?style=flat-square)](https://your-demo-link)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=flat-square)](https://work-shift-management-web.vercel.app/)
 
 ---
 
@@ -142,33 +137,6 @@ I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, 
 
 ---
 
-## 💼 Experience
-
-```
-🏢  ArcadexIT (Arcade Group)          Flutter Developer       Feb 2024 – Present
-    Gulshan-1, Dhaka                   Lead Mobile Engineer    (Full-time)
-
-🏢  Bd-task Software Company LTD      Flutter Developer       Sep 2023 – Jan 2024
-    Khilkhet, Dhaka                    Intern
-```
-
----
-
-## 🎓 Education
-
-```
-🎓  B.Sc. in Computer Science & Engineering (CSE)
-    Bangladesh University of Business and Technology (BUBT)
-
-🎓  Diploma in Engineering — Computer Science (4 Years)
-    Naogaon Govt. Polytechnic Institute
-
-🎓  SSC — Department of Science
-    Shimanto Public School
-```
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -179,7 +147,6 @@ I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, 
 | 💼 LinkedIn | [linkedin.com/in/mosharof-khan](https://linkedin.com/in/mosharof-khan) |
 | 🐙 GitHub | [github.com/mosharof00](https://github.com/mosharof00) |
 | 🌐 Portfolio | [arcadexit.com](https://arcadexit.com) |
-| 📞 Phone | +880 1314-859997 |
 
 </div>
 
