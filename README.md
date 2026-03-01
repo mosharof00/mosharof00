@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███████╗██╗     ██╗   ██╗████████╗████████╗███████╗██████╗
-██╔════╝██║     ██║   ██║╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗
-█████╗  ██║     ██║   ██║   ██║      ██║   █████╗  ██████╔╝
-██╔══╝  ██║     ██║   ██║   ██║      ██║   ██╔══╝  ██╔══██╗
-██║     ███████╗╚██████╔╝   ██║      ██║   ███████╗██║  ██║
-╚═╝     ╚══════╝ ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
 # MD. MOSHAROF KHAN
 ### Senior Flutter Developer · Full Stack Mobile Engineer
 
@@ -16,9 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mosharof--khan-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mosharof-khan)
 [![GitHub](https://img.shields.io/badge/GitHub-mosharof00-181717?style=for-the-badge&logo=github)](https://github.com/mosharof00)
 [![Email](https://img.shields.io/badge/Email-mosharof5khan@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mosharof5khan@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Dhaka,_Bangladesh-green?style=for-the-badge)](https://maps.google.com/?q=Gulshan-1,Dhaka)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Senior+Flutter+%26+Dart+Developer;Clean+Architecture+%7C+BLoC+%7C+GetX+%7C+Riverpod;Shipped+Apps+on+Play+Store+%26+App+Store;Building+Scalable+Cross-Platform+Ecosystems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Senior+Flutter+%26+Dart+Developer;Clean+Architecture+%7C+GetX+%7C+BLoC;Shipped+Apps+on+Play+Store+%26+App+Store;Building+Scalable+Cross-Platform+Ecosystems" alt="Typing SVG" />
 
 </div>
 
@@ -33,8 +23,8 @@ I'm a **Senior Flutter Developer** at **ArcadexIT (Arcade Group)** with a strong
 I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, serving **1000+ concurrent users** across multiple platforms.
 
 ```
-🔭  Currently leading mobile development at ArcadexIT, Gulshan-1, Dhaka
-⚡  Built & shipped: food delivery, e-commerce, LMS, workforce management platforms
+🔭  Currently leading mobile development at ArcadexIT
+⚡  Built & shipped: real-world products
 🌱  Exploring: AI integration in mobile apps, serverless edge functions
 🎯  Philosophy: Clean architecture, modular code, scalable backends
 💬  Ask me about Flutter, BLoC, Clean Architecture, or performance optimization
@@ -65,14 +55,14 @@ I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, 
 ![Google Play](https://img.shields.io/badge/Play_Store_Console-✓-success?style=flat-square&logo=googleplay)
 ![App Store](https://img.shields.io/badge/App_Store_Connect-✓-success?style=flat-square&logo=appstore)
 
-`Google Maps API` · `FCM` · `Twilio` · `PostGIS` · `RESTful APIs` · `WebSockets` · `Deno Edge Functions`
+`Google Maps API` · `FCM` · `Twilio` · `PostGIS` · `RESTful APIs` · `WebSockets` · `Deno Edge Functions` · `AI API`
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🍔 FoodX — Multi-Vendor Food Delivery Platform
-> *FoodPanda-like ecosystem — 4 apps, 1000+ concurrent users, built from scratch*
+> *FoodPanda-like ecosystem — 4 apps, built from scratch (full stack)*
 
 - 🏗️ Architected **4 production apps**: Customer, Restaurant, Driver & Web Admin
 - 🤖 **Auto-order assignment** — matches nearest driver within 5–10km in 30s intervals
