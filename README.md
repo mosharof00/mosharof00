@@ -1,111 +1,196 @@
-<h1 align="center">Hi 👋, I'm Md. Mosharof Khan</h1>
-<h3 align="center">Senior Flutter Developer | Cross-Platform Mobile Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Senior+Flutter+%26+Dart+Developer;Clean+Architecture+Enthusiast;BLoC+%7C+Riverpod+%7C+State+Management+Expert;Building+Scalable+Cross-Platform+Apps" alt="Typing SVG" />
-</p>
+```
+███████╗██╗     ██╗   ██╗████████╗████████╗███████╗██████╗
+██╔════╝██║     ██║   ██║╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗
+█████╗  ██║     ██║   ██║   ██║      ██║   █████╗  ██████╔╝
+██╔══╝  ██║     ██║   ██║   ██║      ██║   ██╔══╝  ██╔══██╗
+██║     ███████╗╚██████╔╝   ██║      ██║   ███████╗██║  ██║
+╚═╝     ╚══════╝ ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
 
----
+# MD. MOSHAROF KHAN
+### Senior Flutter Developer · Full Stack Mobile Engineer
 
-### 👨‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arcadexit.com-0A66C2?style=for-the-badge)](https://arcadexit.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mosharof--khan-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mosharof-khan)
+[![GitHub](https://img.shields.io/badge/GitHub-mosharof00-181717?style=for-the-badge&logo=github)](https://github.com/mosharof00)
+[![Email](https://img.shields.io/badge/Email-mosharof5khan@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mosharof5khan@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Dhaka,_Bangladesh-green?style=for-the-badge)](https://maps.google.com/?q=Gulshan-1,Dhaka)
 
-- 🚀 **3+ years** of professional Flutter development experience
-- 🏗️ Passionate about **Clean Architecture**, **SOLID principles**, and scalable app design
-- 🧠 Deep expertise in **BLoC / Cubit**, **Riverpod**, and **Provider** for state management
-- 🔥 Experienced in building production-grade apps — food delivery platforms, real-time tracking systems, and more
-- 🧪 Strong advocate for **unit testing**, **widget testing**, and **TDD**
-- 🌍 Currently crafting a reactive **food service application** (Foodpanda-like) with real-time order tracking
-- 💬 Ask me about **Flutter, Dart, Clean Architecture, BLoC, or performance optimization**
-- 📫 Reach me at **mosharof5khan@gmail.com**
-- ⚡ Fun fact: I'm funny 😄 and I debug faster with coffee ☕
-
----
-
-### 🛠️ Tech Stack & Expertise
-
-#### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### 🧩 State Management
-![BLoC](https://img.shields.io/badge/BLoC-FF6B35?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00BFA5?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-7C4DFF?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### 🏛️ Architecture & Patterns
-- ✅ Clean Architecture (Data / Domain / Presentation)
-- ✅ Repository Pattern
-- ✅ Dependency Injection with **GetIt + Injectable**
-- ✅ SOLID Principles
-
-#### 🔗 Backend & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-#### 🗄️ Local Storage
-![Hive](https://img.shields.io/badge/Hive-FF7043?style=for-the-badge&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SharedPreferences](https://img.shields.io/badge/SharedPreferences-43A047?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### 🧪 Testing
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-4CAF50?style=for-the-badge&logo=flutter&logoColor=white)
-![Widget Testing](https://img.shields.io/badge/Widget%20Testing-2196F3?style=for-the-badge&logo=flutter&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-FF5252?style=for-the-badge&logo=dart&logoColor=white)
-
-#### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 ---
 
-### 🌟 What I Build
+## 👨‍💻 About Me
 
-| Domain | Details |
-|---|---|
-| 🍔 Food Delivery | Foodpanda-like platform with real-time order tracking & reactive UI |
-| 📍 Real-Time Tracking | Live GPS tracking with WebSocket / Firebase streams |
-| 🛒 E-Commerce | Product listings, cart, payments, order management |
-| 🔐 Auth Systems | JWT, OAuth2, Firebase Auth with secure token handling |
+> *Building end-to-end mobile ecosystems — from clean architecture to the Play Store.*
 
----
+I'm a **Senior Flutter Developer** at **ArcadexIT (Arcade Group)** with a strong track record of shipping **production-grade, commercially successful** mobile applications. I specialize in architecting scalable full-stack mobile solutions — designing systems, writing clean code, and owning deployment pipelines end-to-end.
 
-### 📊 GitHub Stats
+I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, serving **1000+ concurrent users** across multiple platforms. I lead projects with both technical depth and client-facing communication skills.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosharof00&show_icons=true&theme=tokyonight&locale=en" alt="mosharof00" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosharof00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mosharof00" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosharof00&theme=tokyonight" alt="mosharof00" />
-</p>
+```
+🔭  Currently leading mobile development at ArcadexIT, Gulshan-1, Dhaka
+⚡  Built & shipped: food delivery, e-commerce, LMS, workforce management platforms
+🌱  Exploring: AI integration in mobile apps, serverless edge functions
+🎯  Philosophy: Clean architecture, modular code, scalable backends
+```
 
 ---
 
-### 🤝 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mosharof-khan/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/mdmosharofkhan.khan.3" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-<a href="https://instagram.com/md_mosharof_khan_" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://github.com/mosharof00" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-</p>
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart)
+![GetX](https://img.shields.io/badge/State--GetX-Expert-purple?style=flat-square)
+![Bloc](https://img.shields.io/badge/State--Bloc-Proficient-blueviolet?style=flat-square)
+
+### 🧠 Architecture
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-✓-success?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-✓-success?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-✓-success?style=flat-square)
+![Modular](https://img.shields.io/badge/Modular_Architecture-✓-success?style=flat-square)
+
+### ⚙️ Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-Expert-3ECF8E?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-Proficient-FFCA28?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?style=flat-square&logo=mongodb)
+![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go)
+
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+![Google Play](https://img.shields.io/badge/Google_Play_Console-✓-success?style=flat-square&logo=googleplay)
+![Apple Store](https://img.shields.io/badge/Apple_App_Store-✓-success?style=flat-square&logo=appstore)
+
+### 🔗 Integrations
+`Google Maps API` · `Firebase Cloud Messaging` · `Twilio` · `PostGIS` · `RESTful APIs` · `Webhooks` · `Cron Jobs` · `Deno/TypeScript Edge Functions`
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mosharof00&label=Profile%20views&color=02569B&style=flat" alt="mosharof00" />
-</p>
+## 🚀 Featured Projects
+
+### 🍔 FoodX — Multi-Vendor Food Delivery Platform
+> *FoodPanda-like ecosystem, built from scratch*
+
+**Stack:** `Flutter 3` · `Supabase (PostgreSQL, PostGIS)` · `Edge Functions` · `Firebase` · `Google Maps API` · `GetX` · `Twilio`
+
+- 🏗️ Architected **4 production apps**: Customer, Restaurant, Driver & Web Admin
+- 👥 Handles **1,000+ concurrent users** on a scalable serverless backend
+- 🤖 **Auto-order assignment** — matches nearest driver within 5–10km in 30s intervals
+- 📍 **Real-time GPS tracking** with <5s latency & dynamic ETA predictions
+- 💬 Push notifications via **Firebase Cloud Messaging** across all platforms
+- 🛒 **Commercially sold on CodeCanyon** with full documentation
+
+[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Customer_App-82B541?style=flat-square)](https://codecanyon.net)
+[![Play Store](https://img.shields.io/badge/Play_Store-Customer-green?style=flat-square&logo=googleplay)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/App_Store-Available-black?style=flat-square&logo=appstore)](https://apps.apple.com)
+
+---
+
+### 🛍️ Vendex — Multi-Vendor E-Commerce Platform
+
+**Stack:** `Flutter` · `GetX` · `Laravel API` · `Firebase` · `MVC`
+
+- 📦 **3 apps in one suite**: Customer, Vendor & Delivery Agent
+- 🛒 Full e-commerce flow: product catalog → cart → multi-vendor checkout → real-time order tracking
+- 💰 **Published & actively sold on CodeCanyon**
+
+[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Live-82B541?style=flat-square)](https://codecanyon.net)
+
+---
+
+### 🎓 Smart Academy — Learning Management System (LMS)
+
+**Stack:** `Flutter` · `GetX` · `Node.js` · `Firebase` · `MongoDB` · `MVC`
+
+- 🎥 Full **video course management** with play tracking & pause history
+- 🤝 Community features: posts, comments, likes, follows, and followers
+- 💬 **Real-time group chat** & push notifications
+- 💳 Complete course sales cycle with popular payment gateways
+
+[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Live-82B541?style=flat-square)](https://codecanyon.net)
+
+---
+
+### 🗓️ WorkShiftly — Workforce Shift Management App
+
+**Stack:** `Flutter` · `GetX` · `Supabase` · `Firebase` · `Google Maps` · `Twilio` · `Deno`
+
+- 📅 Dynamic shift planning connecting workers and employers seamlessly
+- 🗺️ Location-aware scheduling with **Google Maps integration**
+- 📲 SMS notifications via **Twilio**
+
+[![Demo](https://img.shields.io/badge/▶_Demo_Video-Watch-red?style=flat-square)](https://your-demo-link)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mosharof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosharof00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosharof00&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mosharof00&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Experience
+
+```
+🏢  ArcadexIT (Arcade Group)          Flutter Developer       Feb 2024 – Present
+    Gulshan-1, Dhaka                   Lead Mobile Engineer    (Full-time)
+
+🏢  Bd-task Software Company LTD      Flutter Developer       Sep 2023 – Jan 2024
+    Khilkhet, Dhaka                    Intern
+```
+
+---
+
+## 🎓 Education
+
+```
+🎓  B.Sc. in Computer Science & Engineering (CSE)
+    Bangladesh University of Business and Technology (BUBT)
+
+🎓  Diploma in Engineering — Computer Science (4 Years)
+    Naogaon Govt. Polytechnic Institute
+
+🎓  SSC — Department of Science
+    Shimanto Public School
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [mosharof5khan@gmail.com](mailto:mosharof5khan@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/mosharof-khan](https://linkedin.com/in/mosharof-khan) |
+| 🐙 GitHub | [github.com/mosharof00](https://github.com/mosharof00) |
+| 🌐 Portfolio | [arcadexit.com](https://arcadexit.com) |
+| 📞 Phone | +880 1314-859997 |
+
+</div>
+
+---
+
+<div align="center">
+
+*"I may be early in my career, but the complexity of what I've built speaks for itself."*
+
+**— Mosharof Khan**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mosharof00&color=0e75b6&style=flat-square)
+
+</div>
