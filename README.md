@@ -72,7 +72,7 @@ I've launched apps on **Google Play**, **Apple App Store**, and **CodeCanyon**, 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=flat-square)](https://foodx.arcadexit.com/)
 [![CodeCanyon](https://img.shields.io/badge/CodeCanyon-Buy_Now-82B541?style=flat-square)](https://codecanyon.net/item/foodx-multi-restaurant-food-delivery-app-with-admin/61272196?s_rank=1)
 [![Play Store](https://img.shields.io/badge/Play_Store-Download-green?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.meeza.meeza_user_app&hl=en)
-[![App Store](https://apps.apple.com/us/app/meeza-food-dash/id6758754211#information)](https://apps.apple.com/us/app/meeza-food-dash/id6758754211#information)
+[![App Store](https://apps.apple.com/us/app/meeza-food-dash/id6758754211#information)](https://testflight.apple.com/join/RAhfgCD7)
 
 ---
 
