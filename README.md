@@ -127,7 +127,7 @@ A customer, vendor, and delivery-agent ecosystem covering catalog, multi-vendor 
 
 ## Current focus
 
-- Leading Flutter delivery and architecture at **Arcade Group**
+- Focusing on full software system.
 - Building production-ready mobile and full-stack systems with AI-assisted engineering workflows
 - Preparing a personal portfolio website to present architecture decisions, case studies, and measurable product outcomes
 
