@@ -6,6 +6,7 @@
 
 I build production software end to end — mobile apps, native integrations, backends, web portals, CI/CD, and store releases.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mosharof--khan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mosharof-khan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mosharof--khan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mosharof-khan/)
 [![Email](https://img.shields.io/badge/Email-mosharof5khan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosharof5khan@gmail.com)
 
